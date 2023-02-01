@@ -7,6 +7,7 @@ urls = [
     "https://123job.vn/tuyen-dung?q=&l=B%E1%BA%AFc+B%C3%ACnh%2CB%C3%ACnh+Thu%E1%BA%ADn+&date=1",
     "https://123job.vn/tuyen-dung?q=&l=Phan+Thi%E1%BA%BFt%2CB%C3%ACnh+Thu%E1%BA%ADn+&date=1",
     "https://123job.vn/tuyen-dung?q=&l=Tuy+Phong+B%C3%ACnh+Thu%E1%BA%ADn&date=1"
+    "https://www.jobstreet.vn/j?sp=homepage&q=&l=B%C3%ACnh+Thu%E1%BA%ADn"
 ]
 
 # khắc phục auto close trình duyệt khi tải xong
